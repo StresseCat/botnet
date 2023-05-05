@@ -1,2 +1,2 @@
 # botnet
-stresser
+https://stresse.cat
